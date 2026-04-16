@@ -1,0 +1,4 @@
+Duración: 90 minutos
+Intentos permitidos: 1
+Tipo: Presencial
+Uso de calculadora: Permitido
