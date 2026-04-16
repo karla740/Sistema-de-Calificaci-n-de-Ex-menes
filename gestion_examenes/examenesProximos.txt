@@ -1,0 +1,9 @@
+ID: EX001
+Nombre: Examen Parcial Matemáticas
+Curso: Matemáticas 1
+Fecha: 2026-04-20
+
+ID: EX002
+Nombre: Examen Final Programación
+Curso: Programación Básica
+Fecha: 2026-05-10
