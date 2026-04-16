@@ -1,0 +1,19 @@
+REPORTE GENERAL POR ASIGNATURAS
+
+Asignatura: Programación I
+- Estudiantes inscritos: 30
+- Promedio de la clase: 75
+- Aprobados: 25
+- Reprobados: 5
+
+Asignatura: Bases de Datos
+- Estudiantes inscritos: 25
+- Promedio de la clase: 82
+- Aprobados: 23
+- Reprobados: 2
+
+Asignatura: Redes y Telecomunicaciones
+- Estudiantes inscritos: 20
+- Promedio de la clase: 68
+- Aprobados: 12
+- Reprobados: 8

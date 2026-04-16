@@ -1,0 +1,8 @@
+LISTADO DE ESTUDIANTES REPROBADOS
+Nota mínima de aprobación: 61 puntos.
+
+ID 2026004 - Castro, Javier: 55 (Requiere recuperación)
+ID 2026006 - Morales, Diego: 59 (Requiere recuperación)
+ID 2026007 - Ruiz, Elena: 45 (Repite curso)
+ID 2026009 - Torres, Andrés: 35 (Repite curso)
+ID 2026012 - Vargas, Paola: 58 (Requiere recuperación)

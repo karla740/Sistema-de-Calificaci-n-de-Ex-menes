@@ -1,0 +1,10 @@
+LISTADO DE ESTUDIANTES APROBADOS
+Nota mínima de aprobación: 61 puntos.
+
+ID 2026001 - López, Ana: Aprobado
+ID 2026002 - Pérez, Carlos: Aprobado
+ID 2026003 - Ramírez, Sofía: Aprobado
+ID 2026005 - Mendoza, Luis: Aprobado
+ID 2026008 - Aguilar, Carmen: Aprobado
+ID 2026010 - Flores, Martín: Aprobado
+ID 2026011 - Gómez, Lucía: Aprobado

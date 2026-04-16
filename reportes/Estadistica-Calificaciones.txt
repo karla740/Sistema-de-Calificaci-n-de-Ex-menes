@@ -1,0 +1,9 @@
+ESTADISTICA GENERAL DE CALIFICACIONES
+Fecha de corte: 15/04/2026
+
+Total de exámenes procesados: 150
+Promedio global del campus: 76.5 / 100
+Calificación máxima obtenida: 100 (Bases de Datos)
+Calificación mínima obtenida: 35 (Matemáticas Discretas)
+Tasa de aprobación general: 78%
+Tasa de reprobación general: 22%

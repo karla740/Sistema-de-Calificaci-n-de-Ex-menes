@@ -1,0 +1,10 @@
+REPORTE DE NOTAS GLOBALES POR ESTUDIANTE
+
+Estudiante         | Prog I | B. Datos | Redes | Promedio
+---------------------------------------------------------
+Aguilar, Carmen    |   90   |    92    |   88  |   90.0
+Castro, Javier     |   55   |    70    |   60  |   61.6
+López, Ana         |   98   |   100    |   96  |   98.0
+Pérez, Carlos      |   90   |    95    |   100 |   95.0
+Ruiz, Elena        |   45   |    60    |   50  |   51.6
+Torres, Andrés     |   35   |    40    |   30  |   35.0
